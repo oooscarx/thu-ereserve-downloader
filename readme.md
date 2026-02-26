@@ -12,6 +12,12 @@ We recommend using an isolated Python environment (e.g., via `conda`) to avoid d
 pip install -r requirements.txt
 ```
 
+If you are using playwright for the first time, please run the following command to download new browsers:
+
+```bash
+playwright install
+```
+
 ### Download
 
 ```bash
